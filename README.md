@@ -1,6 +1,11 @@
-<p align=”center”>
+<!-- <p align="center" style="width: 100%; height: 100%; margin: 0;">
 
 ![Cover](https://github.com/KanishkaNanayakkara/KanishkaNanayakkara/assets/120894161/52d218c5-ecad-47c8-a27b-5cce9d34e85f)
+
+</p> -->
+<p align=”center”>
+
+<img width="1200" height="400" src="https://github.com/KanishkaNanayakkara/KanishkaNanayakkara/assets/120894161/52d218c5-ecad-47c8-a27b-5cce9d34e85f" alt="my banner">
 
 </p>
 <h1 align="center">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Kanishka Nanayakkara</h1>
